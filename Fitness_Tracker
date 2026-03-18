@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -467,6 +466,5 @@
 
     ReactDOM.createRoot(document.getElementById("root")).render(<App />);
   </script>
-
 </body>
 </html>
